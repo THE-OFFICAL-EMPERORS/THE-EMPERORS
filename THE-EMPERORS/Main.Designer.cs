@@ -56,7 +56,7 @@ namespace THE_EMPERORS
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(157, 42);
+            this.label1.Location = new System.Drawing.Point(74, 49);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(99, 17);
             this.label1.TabIndex = 2;
@@ -66,7 +66,7 @@ namespace THE_EMPERORS
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(307, 158);
+            this.ClientSize = new System.Drawing.Size(230, 158);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.comboBox1);
